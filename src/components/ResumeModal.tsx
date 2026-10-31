@@ -157,7 +157,7 @@ HACKATHONS & INNOVATION:
               </span>
               <span className="flex items-center gap-1.5">
                 <Github className="w-3.5 h-3.5 text-cyan-400 print:text-blue-600" />
-                <span>github.com/chaanakyareddy</span>
+                <span>github.com/chaanakya-reddy</span>
               </span>
               <span className="flex items-center gap-1.5">
                 <Linkedin className="w-3.5 h-3.5 text-cyan-400 print:text-blue-600" />

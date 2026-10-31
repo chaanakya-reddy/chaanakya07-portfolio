@@ -80,7 +80,7 @@ npm run build
 
 **P Chaanakya Chowhan Reddy**
 - Academic: B.Tech AIML, 3rd Semester – REVA University
-- GitHub: [@chaanakyareddy](https://github.com/chaanakyareddy)
+- GitHub: [@chaanakya-reddy](https://github.com/chaanakya-reddy)
 - Email: [petachaanakyareddy07@gmail.com](mailto:petachaanakyareddy07@gmail.com)
 
 ---

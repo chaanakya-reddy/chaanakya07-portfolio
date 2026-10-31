@@ -182,7 +182,7 @@ export const Contact: React.FC = () => {
                       GITHUB PROFILE
                     </span>
                     <span className="text-xs sm:text-sm font-semibold text-white group-hover:text-cyan-300 transition-colors">
-                      github.com/chaanakyareddy
+                      github.com/chaanakya-reddy
                     </span>
                   </div>
                 </a>
